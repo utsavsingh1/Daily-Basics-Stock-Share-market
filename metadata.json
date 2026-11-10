@@ -1,0 +1,6 @@
+{
+  "name": "ApexTrade AI — Real-Time Stock Analytics & Portfolio Platform",
+  "description": "Institutional-grade retail stock trading and real-time market analytics platform with second-by-second live streaming ticks, AI-driven catalyst insights, portfolio tracking, and algorithmic trade simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
